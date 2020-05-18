@@ -1,0 +1,8 @@
+class Test2
+fun fun1 {
+fun2();
+}
+fun fun2 {
+copyFiles("C:\Test\File2.txt", "C:\Test\File3.txt");
+moveFiles("C:\Test\File2.txt", "C:\Test\File4.txt");
+}
